@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================================
-sleep 2
+if ls /home/downloads/*.torrent >/dev/null 2>&1;then
 
 str1="/home/"
 str2=`date +%H%M%S`
