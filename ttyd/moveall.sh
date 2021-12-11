@@ -1,6 +1,6 @@
 #!/bin/bash
 #=================================================
-sleep 2
+sleep 5
 if ls /home/downloads/*.aria2 >/dev/null 2>&1
 then
 touch have.temp
