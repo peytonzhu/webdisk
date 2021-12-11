@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/peytonzhu/webdisk/main/ttyd/aria2.conf
+https://raw.githubusercontent.com/peytonzhu/webdisk/main/ttyd/moveall.sh
+https://raw.githubusercontent.com/peytonzhu/webdisk/main/ttyd/rclone.conf
