@@ -13,5 +13,6 @@
 #rclone copy $str3 ensp1:/rclone --exclude "*.torrent"  --min-size 10
 #fi
 rm /bin/rclone.conf
-mv rclone.conf /bin/
-rclone copy downloads ensp1:/rclone/220716 -P
+mv rclone.conf /bin
+
+#rclone copy downloads ensp1:/rclone/220716 -P
