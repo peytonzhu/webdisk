@@ -16,5 +16,6 @@
 rm /bin/rclone.conf
 mv rclone.conf /bin
 
+#wget https://raw.githubusercontent.com/peytonzhu/webdisk/main/ttyd/rclone.conf
 #rclone copy downloads ensp1:/rclone/220716 -P
 #rclone move downloads ensp1:/rclone/220716 -P
