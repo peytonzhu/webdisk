@@ -17,3 +17,4 @@ rm /bin/rclone.conf
 mv rclone.conf /bin
 
 #rclone copy downloads ensp1:/rclone/220716 -P
+#rclone move downloads ensp1:/rclone/220716 -P
